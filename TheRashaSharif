@@ -1,2 +1,1 @@
-This was a fun exercise to hack into a fake bank accoutn using this command line: 
-ubuntu@tryhackme:~/Desktop$ gobuster -u http://fakebank.com -w wordlist.txt dir 
+
