@@ -1,11 +1,11 @@
 <h1>Hi, I'm Rasha! <br/><a href="https://github.com/TheRashaSharif/TheRashaSharif)">Programmer</a>, <a href="https://www.linkedin.com/in/rasha-sharif-41359825/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Project:</h2>
+<h2>👨‍💻 Cybersecurity Projects: </h2>
 
-- <b>Ethical Hacking </b>
-  - [Hacking using GoBuster in Commandline] 
+- <b>Offensive Ethical Hacking Project</b>
+  - [Hacking using GoBuster in Commandline](https://github.com/TheRashaSharif/Offensive-Ethical-Hacking_101/edit/main/README.md)
   
-- <b> SIEM Defensive </b>
+- <b>Defensive S </b>
   - [Alerts mangment]
   
 - <b>Fixing a Website Inventory </b>
