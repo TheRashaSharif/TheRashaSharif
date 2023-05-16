@@ -9,7 +9,7 @@
   - [Alerts mangment]
   
 - <b>Relativity eDiscovery</b>
-  - 
+  - [The basics] (https://github.com/TheRashaSharif/eDiscovery-Relativity-Basics)
  
 
 <h2> 🤳 Connect with me:</h2>
