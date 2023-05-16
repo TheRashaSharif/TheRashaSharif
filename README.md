@@ -5,7 +5,7 @@
 - <b>Offensive Ethical Hacking Project</b>
   - [Hacking using GoBuster in Commandline](https://github.com/TheRashaSharif/Offensive-Ethical-Hacking_101/edit/main/README.md)
   
-- <b>Defensive S </b>
+- <b>Defensive SIEM Project </b>
   - [Alerts mangment]
   
 - <b>Fixing a Website Inventory </b>
