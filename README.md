@@ -1,15 +1,16 @@
-<h1>Hi, I'm Rasha! <br/><a href="https://github.com/TheRashaSharif/TheRashaSharif)">Programmer</a>, <a href="https://www.linkedin.com/in/rasha-sharif-41359825/">Cybersecurity Professional</a>
-
+<h1>Hi, I'm Rasha! <br/><a href="https://github.com/TheRashaSharif/TheRashaSharif)"> Digital Forensics Examiner DFIR</a>, <br/><a href="https://github.com/TheRashaSharif/TheRashaSharif)"> eDiscovery </a>, <a href="https://www.linkedin.com/in/rasha-sharif-41359825/">Cybersecurity Professional</a> 
+  
 <h2>👨‍💻 Cybersecurity Projects: </h2>
 
-- <b>Offensive Ethical Hacking Project</b>
-  - [Hacking using GoBuster in Commandline](https://github.com/TheRashaSharif/Offensive-Ethical-Hacking_101)
+  
+  
+  - <b>Digital Forensics</b>
+  - [Windows Artifacts](Coming Soon)
+  
   
 - <b>Relativity eDiscovery</b>
-  - [The basics](https://github.com/TheRashaSharif/eDiscovery-Relativity-Basics)
+  - [The basics overview and settings](https://github.com/TheRashaSharif/eDiscovery-Relativity-Basics)
  
-- <b>Defensive Incident Response </b>
-  - [Alerts mangment] ( coming soon)
   
 <h2> 🤳 Connect with me:</h2>
 
