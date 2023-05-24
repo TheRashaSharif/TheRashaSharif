@@ -7,8 +7,8 @@
  
   
 - <b>Relativity eDiscovery</b>
-  - [The basics overview and settings](https://github.com/TheRashaSharif/eDiscovery-Relativity-Basics)
-  - [Viewing_Documents](https://github.com/TheRashaSharif/Viewing_Documents)
+  - [The Basics Overview and Settings](https://github.com/TheRashaSharif/eDiscovery-Relativity-Basics)
+  - [Viewing Documents](https://github.com/TheRashaSharif/Viewing_Documents)
 
 - <b>Digital Forensics</b>
    - [Windows Artifacts](Coming Soon)
