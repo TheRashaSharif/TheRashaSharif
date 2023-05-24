@@ -11,7 +11,7 @@
   - [Viewing Documents](https://github.com/TheRashaSharif/Viewing_Documents)
 
 - <b>Digital Forensics</b>
-   - [Windows Artifacts](Coming Soon)
+   - [Windows Artifacts PartI](https://github.com/TheRashaSharif/Windows-Forensics/blob/main/README.md)
   
 <h2> 🤳 Connect with me:</h2>
 
