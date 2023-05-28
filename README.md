@@ -7,12 +7,12 @@
  
   
 - <b>Relativity eDiscovery</b>
-  - [The Basics Overview and Settings](https://github.com/TheRashaSharif/eDiscovery-Relativity-Basics)
+  - [Workspace Overview and Settings](https://github.com/TheRashaSharif/eDiscovery-Relativity-Basics)
   - [Viewing Documents](https://github.com/TheRashaSharif/Viewing_Documents)
 
 - <b>Digital Forensics</b>
    - [Windows Forensics PartI](https://github.com/TheRashaSharif/Windows-Forensics)
-    -[Windows Forensics PartII](https://github.com/TheRashaSharif/Windows-Forensics-PartII)
+   - [Windows Forensics PartII](https://github.com/TheRashaSharif/Windows-Forensics-PartII)
   
 <h2> 🤳 Connect with me:</h2>
 
