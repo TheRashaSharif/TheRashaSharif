@@ -14,7 +14,7 @@
 - <b>Digital Forensics</b>
    - [Windows Forensics PartI](https://github.com/TheRashaSharif/Windows-Forensics)
    - [Windows Forensics PartII](https://github.com/TheRashaSharif/Windows-Forensics-PartII)
-   - [Recovering deleted files ft Autopsy](https://github.com/TheRashaSharif/Deleted-File-Recovery-ft-Autospy
+   - [Recovering deleted files ft Autopsy](https://github.com/TheRashaSharif/Deleted-File-Recovery-ft-Autospy)
    - [Linux Forensics](https://github.com/TheRashaSharif/Linux-Forensics)
   
   
