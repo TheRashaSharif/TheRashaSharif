@@ -2,8 +2,11 @@
   
 <h2>👨‍💻 Cybersecurity Projects: </h2>
 
+ -<b> Intro to Cybersecurity </b>
   
-  
+   - [Ethichal Hacking 101](https://github.com/TheRashaSharif/Offensive-Ethical-Hacking_101)
+   - [Ethical Hacking using Go Buster](https://github.com/TheRashaSharif/EH-using-GoBuster)
+
  
   
 - <b>Relativity eDiscovery</b>
