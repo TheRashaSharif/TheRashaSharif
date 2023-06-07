@@ -6,8 +6,7 @@
   
    - [Ethichal Hacking 101](https://github.com/TheRashaSharif/Offensive-Ethical-Hacking_101)
    - [Ethical Hacking using Go Buster](https://github.com/TheRashaSharif/EH-using-GoBuster)
-
- 
+  - [Network Security](https://github.com/TheRashaSharif/Network-Security)
   
 - <b>Relativity eDiscovery</b>
   - [Workspace Overview and Settings](https://github.com/TheRashaSharif/eDiscovery-Relativity-Basics)
