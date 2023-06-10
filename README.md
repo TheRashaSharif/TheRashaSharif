@@ -19,6 +19,7 @@
    - [Recovering deleted files ft Autopsy](https://github.com/TheRashaSharif/Deleted-File-Recovery-ft-Autospy)
    - [Linux Forensics](https://github.com/TheRashaSharif/Linux-Forensics)
   
+   -[ Solving a kidnapped Cat Investgation Case- Linux](https://github.com/TheRashaSharif/The-Investgation-of-Gabo-Kitty-Cat-Kidnapping)
   
 <h2> 🤳 Connect with me:</h2>
 
